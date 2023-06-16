@@ -22,11 +22,7 @@ body {
 
 .top-pattern, .bottom-pattern {
     position: absolute;
-<<<<<<< HEAD
     z-index:-1;
-=======
-    z-index: -1;
->>>>>>> da19213f48a3d70cd15e9a455819f269e22c3fda
 }
 
 .top-pattern {
